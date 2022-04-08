@@ -4,7 +4,7 @@ This is my attempt at making the iconic Snake game, which first appeared in 1997
 * **Spawning snacks** at random location of the game window
 * **Increasing length** of Snake upon eating snack
 * **File handling** to maintain and update the **High Score**
-* Ability to play **Sound Effects** based on the events occurring in the game
+* Ability to play **Sound Effects** based on the events occurring in game
 
 ## Requirements
 * **Python version >= 3.0**
